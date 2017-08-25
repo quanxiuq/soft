@@ -1,0 +1,10 @@
+github使用方法：
+1、下载GitHub：https://git-scm.com/downloads 
+2、下载tortoisegit: https://code.google.com/p/tortoisegit/wiki/Download?tm=2 并下载语言包
+
+参照http://www.cnblogs.com/wangchuanyang/p/6273025.html
+注：在生成秘钥时：鼠标在空白区域进行滑动 回加快秘钥生成速度
+
+3、在github网站上添加SSH 参考图1,2
+4、在本地文件夹空白地方，点击右键选择 git克隆 会出现连接不上gitHub 按照如下步骤进行操作：
+参考图3、4、5、6
